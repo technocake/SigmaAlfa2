@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+sigma/__init__.py
+sigma.egg-info/PKG-INFO
+sigma.egg-info/SOURCES.txt
+sigma.egg-info/dependency_links.txt
+sigma.egg-info/entry_points.txt
+sigma.egg-info/requires.txt
+sigma.egg-info/top_level.txt
